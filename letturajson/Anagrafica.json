@@ -1,119 +1,77 @@
 {
     "Anagrafica": [
-
         {
             "id": "1",
-
             "Immagine": "LucaBianchi.jpg",
-            
             "Nome": "Luca",
-
             "Cognome": "Bianchi",
-
-            "Eta": "16",
-
-            "Indirizzo": "Via Milano",
-
-            "Citta": "Milano",
-
+            "Eta": "18",
+            "Indirizzo": "Via Roma",
+            "Citta": "Torino",
             "Telefoni": [
-
                 {
-                    "Telefono1": "6548585855"
+                    "Telefono1": "1234567890"
                 },
-
                 {
-                    "Telefono2": "3787273278"
+                    "Telefono2": "0987654321"
                 }
             ],
-
             "Sport": [
-                
                 {
-                    "Sport1": "Calcio"
+                    "Sport1": "Basket"
                 },
-
                 {
-                    
-                    "Sport2": "Ippica"
+                    "Sport2": "Nuoto"
                 }
             ]
         },
-
         {
             "id": "2",
-
             "Immagine": "AlessandroManzoni.jpeg",
-            
             "Nome": "Luca",
-
             "Cognome": "Bianchi",
-
-            "Eta": "21",
-
-            "Indirizzo": "Via Varese",
-
-            "Citta": "Novara",
-
+            "Eta": "23",
+            "Indirizzo": "Via Firenze",
+            "Citta": "Bergamo",
             "Telefoni": [
-
                 {
-                    "Telefono1": "8876876876"
+                    "Telefono1": "5647382910"
                 },
-
                 {
-                    "Telefono2": "3787273278"
+                    "Telefono2": "6748392011"
                 }
             ],
-
             "Sport": [
-                
                 {
-                    "Sport1": "Tennis"
+                    "Sport1": "Rugby"
                 },
-
                 {
-                    
-                    "Sport2": "Pallamano"
+                    "Sport2": "Pallavolo"
                 }
             ]
         },
-
-        {   
+        {
             "id": "3",
-
             "Immagine": "GiorgioNeri.jpg",
-            
             "Nome": "Maria",
-
             "Cognome": "Verdi",
-
-            "Eta": "26",
-
-            "Indirizzo": "Via Monza",
-
-            "Citta": "Lainate",
-
+            "Eta": "28",
+            "Indirizzo": "Via Bologna",
+            "Citta": "Genova",
             "Telefoni": [
-
                 {
-                    "Telefono1": "7827798999"
+                    "Telefono1": "9876543210"
                 },
-
                 {
-                    "Telefono2": "7868876868"
+                    "Telefono2": "1122334455"
                 }
             ],
-
             "Sport": [
-                
                 {
-                    "Sport1": "Tennis"
+                    "Sport1": "Atletica"
                 },
-
                 {
-                    
-                    "Sport2": "Badminghton"
+                    "Sport2": "Pallanuoto"
                 }
             ]
         }
