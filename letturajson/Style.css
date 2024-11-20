@@ -1,18 +1,3 @@
-@font-face {
-    font-family: "PrincipaleLight";
-    src: url("Comfortaa-Light.ttf");
-}
-
-@font-face {
-    font-family: "PrincipaleBold";
-    src: url("Comfortaa-Bold.ttf");
-}
-
-@font-face {
-    font-family: "Principale";
-    src: url("Comfortaa-Regular.ttf");
-}
-
 body {
 
     display: flex;
